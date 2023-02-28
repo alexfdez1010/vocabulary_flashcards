@@ -4,7 +4,7 @@ A script to generate vocabulary flashcards for Anki
 
 ## Use Case
 
-The gist of the algorithm is to transform a list of words in English into an Anki Package. Unluckily, at the moment only allows for individual words and phrasal verbs. Thus, idioms do not work. In the future, it will be tried to devise a way of implement that.
+The gist of the algorithm is to transform a list of words in English into an Anki Package. Unfortunately, at the moment only allows for individual words and phrasal verbs. Thus, idioms do not work. In the future, it will be tried to devise a way of implement that.
 
 ## Input and output
 
